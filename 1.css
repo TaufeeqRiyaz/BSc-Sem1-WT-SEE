@@ -2,6 +2,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+    font-family: "Space Grotesk", sans-serif;
 }
 
 p{
@@ -9,14 +10,13 @@ p{
 }
 
 body {
-	font-family: Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-	color: #333;
+	color: #000000;
 }
 
 header {
-	background-color: #333;
+	background-color: #000000;
 	color: #fff;
 	padding: 20px;
 	display: flex;
